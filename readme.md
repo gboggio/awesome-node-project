@@ -4,6 +4,18 @@ Just you wait folks!
 
 ## Sample Data
 
+1. Start MongoDB daemon
+```bash
+sudo mongod
+```
+
+2. Run:
+```bash
+npm start
+```
+
+## Sample Data
+
 To load sample data, run the following command in your terminal:
 
 ```bash
